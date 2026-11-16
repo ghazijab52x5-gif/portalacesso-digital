@@ -1,0 +1,24 @@
+SITE INSTITUCIONAL — 67.097.052 Marcos Andre Sodre da Motta
+
+Arquivos:
+- index.html
+- sobre.html
+- politica-de-privacidade.html
+- termos-de-uso.html
+- styles.css
+- assets/ (imagens enviadas)
+
+Como visualizar:
+1. Extraia o ZIP.
+2. Abra index.html no navegador.
+
+Publicação:
+Envie todos os arquivos e a pasta assets para a mesma pasta pública da hospedagem.
+O site usa Bootstrap 5.3.3 e Bootstrap Icons por CDN, portanto precisa de internet para carregar esses recursos.
+
+Antes de publicar:
+- Confirme CNPJ, razão social, data de abertura, endereço, e-mail e telefone.
+- Confirme que possui autorização para usar as imagens enviadas.
+- A política descreve a versão entregue sem formulário e sem tags próprias de analytics/Google Ads. Se instalar Google tag, Analytics, pixels, cookies de publicidade ou formulário, atualize a política e implemente os avisos/consentimentos aplicáveis.
+- As imagens são referências ilustrativas; confirme que correspondem à apresentação que sua empresa pode oferecer.
+- Os textos legais são modelos iniciais e não constituem aconselhamento jurídico.
